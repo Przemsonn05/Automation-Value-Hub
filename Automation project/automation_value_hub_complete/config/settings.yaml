@@ -4,8 +4,8 @@ project:
   default_reporting_month: "2026-08"
 
 input:
-  register_file: "data/input/Automation Register.csv"
-  performance_file: "data/input/Automation Performance & Maintenance.csv"
+  register_file: "C:/Users/PRKD/Lundbeck/Automation library for files/Files for Automation/Automation Register.csv"
+  performance_file: "C:/Users/PRKD/Lundbeck/Automation library for files/Files for Automation/Automation Performance & Maintenance.csv"
 
 output:
   processed_dir: "data/processed"
